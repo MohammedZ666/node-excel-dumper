@@ -1,0 +1,34 @@
+{
+  "name": "node-excel-dumper",
+  "version": "1.0.0",
+  "description": "dumps excel file to mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md Abu Obaida Zishan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.0.11",
+    "read-excel-file": "^5.2.20"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammedZ666/node-excel-dumper.git"
+  },
+  "keywords": [
+    "dump",
+    "excel",
+    "data",
+    "to",
+    "mongodb",
+    "as",
+    "json"
+  ],
+  "bugs": {
+    "url": "https://github.com/MohammedZ666/node-excel-dumper/issues"
+  },
+  "homepage": "https://github.com/MohammedZ666/node-excel-dumper#readme"
+}
