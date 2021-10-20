@@ -10,5 +10,5 @@ FILENAME"YOUR FILENAME WITHOUT THE SEMICOLONS"
 ```
 ### Put your excel file under the `/data` directory. ###
 
-*`npm install` in terminal to install 
-*`node index.js` in terminal to run 
+* `npm install` in terminal to install 
+* `node index.js` in terminal to run 
