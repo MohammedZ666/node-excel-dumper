@@ -1,4 +1,5 @@
 ## Node.js excel to mongodb dumper ##
+Reads an excel file, creates json for each row and dumps all jsons to mongodb.
 
 ### Create a .env file in the root directory and put ###
 
